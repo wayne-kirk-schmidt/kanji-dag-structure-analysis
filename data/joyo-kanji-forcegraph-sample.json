@@ -1,0 +1,479 @@
+{
+  "nodes": [
+    {
+      "id": "Grade 1",
+      "group": "Grade"
+    },
+    {
+      "id": "Grade 2",
+      "group": "Grade"
+    },
+    {
+      "id": "Grade 3",
+      "group": "Grade"
+    },
+    {
+      "id": "Grade 4",
+      "group": "Grade"
+    },
+    {
+      "id": "Grade 5",
+      "group": "Grade"
+    },
+    {
+      "id": "Grade 6",
+      "group": "Grade"
+    },
+    {
+      "id": "Grade 7",
+      "group": "Grade"
+    },
+    {
+      "id": "Grade 8",
+      "group": "Grade"
+    },
+    {
+      "id": "Grade 9",
+      "group": "Grade"
+    },
+    {
+      "id": "一",
+      "group": "Kanji",
+      "tooltip": "Grade 1"
+    },
+    {
+      "id": "右",
+      "group": "Kanji",
+      "tooltip": "Grade 1"
+    },
+    {
+      "id": "雨",
+      "group": "Kanji",
+      "tooltip": "Grade 1"
+    },
+    {
+      "id": "円",
+      "group": "Kanji",
+      "tooltip": "Grade 1"
+    },
+    {
+      "id": "王",
+      "group": "Kanji",
+      "tooltip": "Grade 1"
+    },
+    {
+      "id": "引",
+      "group": "Kanji",
+      "tooltip": "Grade 2"
+    },
+    {
+      "id": "羽",
+      "group": "Kanji",
+      "tooltip": "Grade 2"
+    },
+    {
+      "id": "雲",
+      "group": "Kanji",
+      "tooltip": "Grade 2"
+    },
+    {
+      "id": "園",
+      "group": "Kanji",
+      "tooltip": "Grade 2"
+    },
+    {
+      "id": "遠",
+      "group": "Kanji",
+      "tooltip": "Grade 2"
+    },
+    {
+      "id": "悪",
+      "group": "Kanji",
+      "tooltip": "Grade 3"
+    },
+    {
+      "id": "安",
+      "group": "Kanji",
+      "tooltip": "Grade 3"
+    },
+    {
+      "id": "暗",
+      "group": "Kanji",
+      "tooltip": "Grade 3"
+    },
+    {
+      "id": "医",
+      "group": "Kanji",
+      "tooltip": "Grade 3"
+    },
+    {
+      "id": "委",
+      "group": "Kanji",
+      "tooltip": "Grade 3"
+    },
+    {
+      "id": "愛",
+      "group": "Kanji",
+      "tooltip": "Grade 4"
+    },
+    {
+      "id": "案",
+      "group": "Kanji",
+      "tooltip": "Grade 4"
+    },
+    {
+      "id": "以",
+      "group": "Kanji",
+      "tooltip": "Grade 4"
+    },
+    {
+      "id": "育",
+      "group": "Kanji",
+      "tooltip": "Grade 4"
+    },
+    {
+      "id": "印",
+      "group": "Kanji",
+      "tooltip": "Grade 4"
+    },
+    {
+      "id": "異",
+      "group": "Kanji",
+      "tooltip": "Grade 5"
+    },
+    {
+      "id": "遺",
+      "group": "Kanji",
+      "tooltip": "Grade 5"
+    },
+    {
+      "id": "域",
+      "group": "Kanji",
+      "tooltip": "Grade 5"
+    },
+    {
+      "id": "宇",
+      "group": "Kanji",
+      "tooltip": "Grade 5"
+    },
+    {
+      "id": "映",
+      "group": "Kanji",
+      "tooltip": "Grade 5"
+    },
+    {
+      "id": "易",
+      "group": "Kanji",
+      "tooltip": "Grade 6"
+    },
+    {
+      "id": "益",
+      "group": "Kanji",
+      "tooltip": "Grade 6"
+    },
+    {
+      "id": "液",
+      "group": "Kanji",
+      "tooltip": "Grade 6"
+    },
+    {
+      "id": "演",
+      "group": "Kanji",
+      "tooltip": "Grade 6"
+    },
+    {
+      "id": "応",
+      "group": "Kanji",
+      "tooltip": "Grade 6"
+    },
+    {
+      "id": "往",
+      "group": "Kanji",
+      "tooltip": "Grade 7"
+    },
+    {
+      "id": "桜",
+      "group": "Kanji",
+      "tooltip": "Grade 7"
+    },
+    {
+      "id": "恩",
+      "group": "Kanji",
+      "tooltip": "Grade 7"
+    },
+    {
+      "id": "仮",
+      "group": "Kanji",
+      "tooltip": "Grade 7"
+    },
+    {
+      "id": "価",
+      "group": "Kanji",
+      "tooltip": "Grade 7"
+    },
+    {
+      "id": "過",
+      "group": "Kanji",
+      "tooltip": "Grade 8"
+    },
+    {
+      "id": "賀",
+      "group": "Kanji",
+      "tooltip": "Grade 8"
+    },
+    {
+      "id": "解",
+      "group": "Kanji",
+      "tooltip": "Grade 8"
+    },
+    {
+      "id": "確",
+      "group": "Kanji",
+      "tooltip": "Grade 8"
+    },
+    {
+      "id": "額",
+      "group": "Kanji",
+      "tooltip": "Grade 8"
+    },
+    {
+      "id": "学",
+      "group": "Kanji",
+      "tooltip": "Grade 9"
+    },
+    {
+      "id": "覚",
+      "group": "Kanji",
+      "tooltip": "Grade 9"
+    },
+    {
+      "id": "環",
+      "group": "Kanji",
+      "tooltip": "Grade 9"
+    },
+    {
+      "id": "関",
+      "group": "Kanji",
+      "tooltip": "Grade 9"
+    },
+    {
+      "id": "観",
+      "group": "Kanji",
+      "tooltip": "Grade 9"
+    }
+  ],
+  "links": [
+    {
+      "source": "Grade 1",
+      "target": "一"
+    },
+    {
+      "source": "Grade 1",
+      "target": "右"
+    },
+    {
+      "source": "Grade 1",
+      "target": "雨"
+    },
+    {
+      "source": "Grade 1",
+      "target": "円"
+    },
+    {
+      "source": "Grade 1",
+      "target": "王"
+    },
+    {
+      "source": "Grade 2",
+      "target": "引"
+    },
+    {
+      "source": "Grade 2",
+      "target": "羽"
+    },
+    {
+      "source": "Grade 2",
+      "target": "雲"
+    },
+    {
+      "source": "Grade 2",
+      "target": "園"
+    },
+    {
+      "source": "Grade 2",
+      "target": "遠"
+    },
+    {
+      "source": "Grade 3",
+      "target": "悪"
+    },
+    {
+      "source": "Grade 3",
+      "target": "安"
+    },
+    {
+      "source": "Grade 3",
+      "target": "暗"
+    },
+    {
+      "source": "Grade 3",
+      "target": "医"
+    },
+    {
+      "source": "Grade 3",
+      "target": "委"
+    },
+    {
+      "source": "Grade 4",
+      "target": "愛"
+    },
+    {
+      "source": "Grade 4",
+      "target": "案"
+    },
+    {
+      "source": "Grade 4",
+      "target": "以"
+    },
+    {
+      "source": "Grade 4",
+      "target": "育"
+    },
+    {
+      "source": "Grade 4",
+      "target": "印"
+    },
+    {
+      "source": "Grade 5",
+      "target": "異"
+    },
+    {
+      "source": "Grade 5",
+      "target": "遺"
+    },
+    {
+      "source": "Grade 5",
+      "target": "域"
+    },
+    {
+      "source": "Grade 5",
+      "target": "宇"
+    },
+    {
+      "source": "Grade 5",
+      "target": "映"
+    },
+    {
+      "source": "Grade 6",
+      "target": "易"
+    },
+    {
+      "source": "Grade 6",
+      "target": "益"
+    },
+    {
+      "source": "Grade 6",
+      "target": "液"
+    },
+    {
+      "source": "Grade 6",
+      "target": "演"
+    },
+    {
+      "source": "Grade 6",
+      "target": "応"
+    },
+    {
+      "source": "Grade 7",
+      "target": "往"
+    },
+    {
+      "source": "Grade 7",
+      "target": "桜"
+    },
+    {
+      "source": "Grade 7",
+      "target": "恩"
+    },
+    {
+      "source": "Grade 7",
+      "target": "仮"
+    },
+    {
+      "source": "Grade 7",
+      "target": "価"
+    },
+    {
+      "source": "Grade 8",
+      "target": "過"
+    },
+    {
+      "source": "Grade 8",
+      "target": "賀"
+    },
+    {
+      "source": "Grade 8",
+      "target": "解"
+    },
+    {
+      "source": "Grade 8",
+      "target": "確"
+    },
+    {
+      "source": "Grade 8",
+      "target": "額"
+    },
+    {
+      "source": "Grade 9",
+      "target": "学"
+    },
+    {
+      "source": "Grade 9",
+      "target": "覚"
+    },
+    {
+      "source": "Grade 9",
+      "target": "環"
+    },
+    {
+      "source": "Grade 9",
+      "target": "関"
+    },
+    {
+      "source": "Grade 9",
+      "target": "観"
+    },
+    {
+      "source": "Grade 1",
+      "target": "Grade 2"
+    },
+    {
+      "source": "Grade 2",
+      "target": "Grade 3"
+    },
+    {
+      "source": "Grade 3",
+      "target": "Grade 4"
+    },
+    {
+      "source": "Grade 4",
+      "target": "Grade 5"
+    },
+    {
+      "source": "Grade 5",
+      "target": "Grade 6"
+    },
+    {
+      "source": "Grade 6",
+      "target": "Grade 7"
+    },
+    {
+      "source": "Grade 7",
+      "target": "Grade 8"
+    },
+    {
+      "source": "Grade 8",
+      "target": "Grade 9"
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Force Graph Renderer</title>
+  <script src="https://unpkg.com/force-graph">
+
+
+
+
+Graph.refresh();
+});
+
+  const dataUrl = canvas.toDataURL('image/png');
+  Graph.nodeCanvasObject(originalNodeCanvasObject);
+
+  const inputEl = document.getElementById('pngFilename');
+  const inputVal = inputEl ? inputEl.value.trim() : "";
+  const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
+  const filename = inputVal
+    ? (inputVal.endsWith('.png') ? inputVal : inputVal + '.png')
+    : `graph-export-${timestamp}.png`;
+
+  const a = document.createElement('a');
+  a.href = dataUrl;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+
+  console.log("✅ PNG download triggered:", filename);
+});
+
+
+Graph.refresh();
+});
+  const dataUrl = canvas.toDataURL("image/png");
+  Graph.nodeCanvasObject(originalNodeCanvasObject);
+  const inputEl = document.getElementById("pngFilename");
+  const inputVal = inputEl ? inputEl.value.trim() : "";
+  const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
+  const filename = inputVal
+    ? (inputVal.endsWith(".png") ? inputVal : inputVal + ".png")
+    : `graph-export-${timestamp}.png`;
+  const a = document.createElement("a");
+  a.href = dataUrl;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+});
+
+
+function paintCanvasBackground(canvas, color) {
+  const ctx = canvas.getContext("2d");
+  ctx.save();
+  ctx.globalCompositeOperation = "destination-over";
+  ctx.fillStyle = color;
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+  ctx.restore();
+}
+
+setTimeout(() => {
+    paintCanvasBackground(canvas, isDark ? "#000000" : "#ffffff");
+
+    const dataUrl = canvas.toDataURL("image/png");
+
+    Graph.nodeCanvasObject(originalNodeCanvasObject);
+    Graph.refresh();
+
+    const inputEl = document.getElementById("pngFilename");
+    const inputVal = inputEl ? inputEl.value.trim() : "";
+    const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
+    const filename = inputVal
+      ? (inputVal.endsWith(".png") ? inputVal : inputVal + ".png")
+      : `graph-export-${timestamp}.png`;
+
+    const a = document.createElement("a");
+    a.href = dataUrl;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+  }, 100);
+});
+
+
+function paintCanvasBackground(canvas, color) {
+  const ctx = canvas.getContext("2d");
+  ctx.save();
+  ctx.globalCompositeOperation = "destination-over";
+  ctx.fillStyle = color;
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+  ctx.restore();
+}
+
+document.getElementById("savePng").addEventListener("click", () => {
+  const canvas = document.querySelector("#graph canvas");
+  if (!canvas) return;
+
+  const isDark = document.body.classList.contains("dark-mode");
+  const originalNodeCanvasObject = Graph.nodeCanvasObject();
+
+  Graph.nodeCanvasObject((node, ctx, globalScale) => {
+    const label = node.id;
+    const fontSize = 12 / globalScale;
+    ctx.font = fontSize + "px Sans-Serif";
+    ctx.textAlign = "center";
+    ctx.textBaseline = "middle";
+    ctx.fillStyle = isDark ? "white" : "black";
+    ctx.fillText(label, node.x, node.y);
+  });
+
+  setTimeout(() => {
+    paintCanvasBackground(canvas, isDark ? "#000000" : "#ffffff");
+
+    const dataUrl = canvas.toDataURL("image/png");
+    Graph.nodeCanvasObject(originalNodeCanvasObject);
+    Graph.refresh();
+
+    const inputEl = document.getElementById("pngFilename");
+    const inputVal = inputEl ? inputEl.value.trim() : "";
+    const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
+    const filename = inputVal
+      ? (inputVal.endsWith(".png") ? inputVal : inputVal + ".png")
+      : `graph-export-${timestamp}.png`;
+
+    const a = document.createElement("a");
+    a.href = dataUrl;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+  }, 100);
+});
+
+document.getElementById("darkToggle").addEventListener("click", () => {
+  document.body.classList.toggle("dark-mode");
+  const isDark = document.body.classList.contains("dark-mode");
+
+  Graph.nodeCanvasObject((node, ctx, globalScale) => {
+    const label = node.id;
+    const fontSize = 12 / globalScale;
+    ctx.font = fontSize + "px Sans-Serif";
+    ctx.textAlign = "center";
+    ctx.textBaseline = "middle";
+    ctx.fillStyle = isDark ? "white" : "black";
+    ctx.fillText(label, node.x, node.y);
+  });
+
+  Graph.backgroundColor(isDark ? "black" : "white")
+       .linkColor(() => isDark ? "#aaa" : "#555");
+
+  Graph.refresh();
+});
+
+</script>
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden;
+      font-family: sans-serif;
+    }
+    
+#side-panel {
+  position: absolute;
+  top: 0; left: 0;
+  width: 220px;
+  height: 100%;
+  background: #f9f9f9;
+  padding: 12px;
+  overflow-y: auto;
+  box-shadow: 2px 0 6px rgba(0,0,0,0.1);
+  z-index: 10;
+}
+#graph {
+  position: absolute;
+  top: 0; left: 220px;
+  width: calc(100% - 220px);
+
+      width: 100vw;
+      height: 100vh;
+    }
+    #controls {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      z-index: 10;
+      background: rgba(255, 255, 255, 0.9);
+      padding: 10px;
+      border-radius: 8px;
+    }
+    body.dark {
+      background-color: black;
+      color: white;
+    }
+    body.dark #controls {
+      background: rgba(30, 30, 30, 0.95);
+      color: white;
+    }
+  
+body.dark-mode {
+  background: #111;
+  color: white;
+}
+body.dark-mode #side-panel {
+  background: #222;
+  color: white;
+}
+body.dark-mode select, body.dark-mode input, body.dark-mode button {
+  background: #333;
+  color: white;
+  border: 1px solid #555;
+}
+</style>
+</head>
+<body>
+  
+    <div id="side-panel">
+<div id="categoryList" style="margin-top:20px;"></div>
+      <h3>Controls</h3>
+      <label><strong>Upload File</strong><br><input type="file" id="fileInput" /></label><br><br>
+      <label><strong>Layout</strong><br>
+        <select id="layoutSelect">
+          <option value="force">Force</option>
+          <option value="tree">Tree</option>
+          <option value="radial">Radial</option>
+        </select>
+      </label><br><br>
+      <button id="darkToggle">🌙 Dark Mode</button><br><br>
+      <label><strong>Search</strong><br><input type="text" id="searchNode" placeholder="Search node..." /></label><br><br>
+      <label><strong>Filename</strong><br><input type="text" id="pngFilename" placeholder="Optional filename" /></label><br><br><button id="savePng">📷 Save as PNG</button>
+    </div>
+    
+  <div id="graph"></div>
+  <script>
+    const Graph = ForceGraph()(document.getElementById('graph'))
+      .nodeLabel(node => node.tooltip || node.id)
+      .nodeCanvasObjectMode(() => 'after')
+      .nodeCanvasObject((node, ctx, globalScale) => {
+        const label = node.id;
+        const fontSize = 12 / globalScale;
+        ctx.font = `${fontSize}px Sans-Serif`;
+        ctx.fillStyle = document.body.classList.contains('dark') ? 'white' : 'black';
+        ctx.fillText(label, node.x + 8, node.y + 8);
+      })
+      .width(window.innerWidth)
+      .height(window.innerHeight)
+      .nodeAutoColorBy('group')
+      .nodeLabel(node => node.tooltip || node.id)
+      .linkColor(() => document.body.classList.contains('dark') ? '#aaa' : '#555');
+
+    let data = null;
+
+    function applyLayout(graph, layout) {
+      const N = graph.nodes.length;
+      if (layout === 'radial') {
+        const radius = 300;
+        graph.nodes.forEach((node, i) => {
+          node.fx = radius * Math.cos((i / N) * 2 * Math.PI);
+          node.fy = radius * Math.sin((i / N) * 2 * Math.PI);
+        });
+      } else if (layout === 'tree') {
+        const levels = Math.ceil(Math.sqrt(N));
+        const spacing = 80;
+        graph.nodes.forEach((node, i) => {
+          const row = Math.floor(i / levels);
+          const col = i % levels;
+          node.fx = (col - levels / 2) * spacing;
+          node.fy = (row - levels / 2) * spacing;
+        });
+      } else {
+        graph.nodes.forEach(n => { delete n.fx; delete n.fy; });
+      }
+    }
+
+    document.getElementById('fileInput').addEventListener('change', evt => {
+  const file = evt.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = e => {
+    try {
+      Graph.graphData({ nodes: [], links: [] });
+      document.getElementById('searchNode').value = '';
+            const json = JSON.parse(e.target.result);
+      if (!json.nodes || !json.links) throw new Error("Invalid format");
+
+      rawData = json;  // ✅ store original file content
+      data = json;
+
+      const layout = document.getElementById('layoutSelect').value;
+      applyLayout(data, layout);
+      Graph.graphData(data);
+      
+    } catch (err) {
+      alert("Error loading file: " + err.message);
+    }
+  };
+  reader.readAsText(file, 'UTF-8');
+});
+
+    document.getElementById('layoutSelect').addEventListener('change', () => {
+      if (data) {
+        const layout = document.getElementById('layoutSelect').value;
+        applyLayout(data, layout);
+        Graph.graphData(data);
+          
+        
+      }
+    });
+
+    
+    // Node Search
+    document.getElementById('searchNode').addEventListener('input', e => {
+      const query = e.target.value.toLowerCase();
+      if (!data || !query) return;
+      const match = data.nodes.find(n => n.id.toLowerCase().includes(query));
+      if (match) {
+        Graph.centerAt(match.x, match.y, 1000);
+        Graph.zoom(4, 1000);
+      }
+    });
+
+    // Group Filter Rendering
+    
+    
+    
+
+    Graph.refresh();
+});
+
+  const dataUrl = canvas.toDataURL('image/png');
+  Graph.nodeCanvasObject(originalNodeCanvasObject);
+
+  const inputEl = document.getElementById('pngFilename');
+  const inputVal = inputEl ? inputEl.value.trim() : "";
+  const timestamp = new Date().toISOString().replace(/[:.]/g, '-');
+  const filename = inputVal
+    ? (inputVal.endsWith('.png') ? inputVal : inputVal + '.png')
+    : `graph-export-${timestamp}.png`;
+
+  const a = document.createElement('a');
+  a.href = dataUrl;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+
+  console.log("✅ PNG download triggered:", filename);
+});
+
+
+Graph.refresh();
+});
+  const dataUrl = canvas.toDataURL("image/png");
+  Graph.nodeCanvasObject(originalNodeCanvasObject);
+  const inputEl = document.getElementById("pngFilename");
+  const inputVal = inputEl ? inputEl.value.trim() : "";
+  const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
+  const filename = inputVal
+    ? (inputVal.endsWith(".png") ? inputVal : inputVal + ".png")
+    : `graph-export-${timestamp}.png`;
+  const a = document.createElement("a");
+  a.href = dataUrl;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+});
+
+
+function paintCanvasBackground(canvas, color) {
+  const ctx = canvas.getContext("2d");
+  ctx.save();
+  ctx.globalCompositeOperation = "destination-over";
+  ctx.fillStyle = color;
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+  ctx.restore();
+}
+
+setTimeout(() => {
+    paintCanvasBackground(canvas, isDark ? "#000000" : "#ffffff");
+
+    const dataUrl = canvas.toDataURL("image/png");
+
+    Graph.nodeCanvasObject(originalNodeCanvasObject);
+    Graph.refresh();
+
+    const inputEl = document.getElementById("pngFilename");
+    const inputVal = inputEl ? inputEl.value.trim() : "";
+    const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
+    const filename = inputVal
+      ? (inputVal.endsWith(".png") ? inputVal : inputVal + ".png")
+      : `graph-export-${timestamp}.png`;
+
+    const a = document.createElement("a");
+    a.href = dataUrl;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+  }, 100);
+});
+
+
+function paintCanvasBackground(canvas, color) {
+  const ctx = canvas.getContext("2d");
+  ctx.save();
+  ctx.globalCompositeOperation = "destination-over";
+  ctx.fillStyle = color;
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+  ctx.restore();
+}
+
+document.getElementById("savePng").addEventListener("click", () => {
+  const canvas = document.querySelector("#graph canvas");
+  if (!canvas) return;
+
+  const isDark = document.body.classList.contains("dark-mode");
+  const originalNodeCanvasObject = Graph.nodeCanvasObject();
+
+  Graph.nodeCanvasObject((node, ctx, globalScale) => {
+    const label = node.id;
+    const fontSize = 12 / globalScale;
+    ctx.font = fontSize + "px Sans-Serif";
+    ctx.textAlign = "center";
+    ctx.textBaseline = "middle";
+    ctx.fillStyle = isDark ? "white" : "black";
+    ctx.fillText(label, node.x, node.y);
+  });
+
+  setTimeout(() => {
+    paintCanvasBackground(canvas, isDark ? "#000000" : "#ffffff");
+
+    const dataUrl = canvas.toDataURL("image/png");
+    Graph.nodeCanvasObject(originalNodeCanvasObject);
+    Graph.refresh();
+
+    const inputEl = document.getElementById("pngFilename");
+    const inputVal = inputEl ? inputEl.value.trim() : "";
+    const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
+    const filename = inputVal
+      ? (inputVal.endsWith(".png") ? inputVal : inputVal + ".png")
+      : `graph-export-${timestamp}.png`;
+
+    const a = document.createElement("a");
+    a.href = dataUrl;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+  }, 100);
+});
+
+document.getElementById("darkToggle").addEventListener("click", () => {
+  document.body.classList.toggle("dark-mode");
+  const isDark = document.body.classList.contains("dark-mode");
+
+  Graph.nodeCanvasObject((node, ctx, globalScale) => {
+    const label = node.id;
+    const fontSize = 12 / globalScale;
+    ctx.font = fontSize + "px Sans-Serif";
+    ctx.textAlign = "center";
+    ctx.textBaseline = "middle";
+    ctx.fillStyle = isDark ? "white" : "black";
+    ctx.fillText(label, node.x, node.y);
+  });
+
+  Graph.backgroundColor(isDark ? "black" : "white")
+       .linkColor(() => isDark ? "#aaa" : "#555");
+
+  Graph.refresh();
+});
+
+</script>
+
+</body>
+</html>

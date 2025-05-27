@@ -1,0 +1,222 @@
+{
+  "nodes": [
+    {
+      "id": "ChatGPT",
+      "group": "Conversational",
+      "tooltip": "Multimodal conversational agent by OpenAI"
+    },
+    {
+      "id": "Claude AI",
+      "group": "Conversational",
+      "tooltip": "Anthropic alignment-focused chatbot"
+    },
+    {
+      "id": "Bard / Gemini",
+      "group": "Conversational",
+      "tooltip": "Google DeepMind flagship LLM"
+    },
+    {
+      "id": "Pi by Inflection",
+      "group": "Conversational",
+      "tooltip": "Empathetic AI assistant"
+    },
+    {
+      "id": "Mistral Chat",
+      "group": "Conversational",
+      "tooltip": "Open-weight LLM from Mistral"
+    },
+    {
+      "id": "DALL\u00b7E 3",
+      "group": "Image",
+      "tooltip": "Text-to-image generator by OpenAI"
+    },
+    {
+      "id": "Stable Diffusion",
+      "group": "Image",
+      "tooltip": "Open-source image generator"
+    },
+    {
+      "id": "Midjourney",
+      "group": "Image",
+      "tooltip": "Stylized image generation platform"
+    },
+    {
+      "id": "Adobe Firefly",
+      "group": "Image",
+      "tooltip": "Creative image tools by Adobe"
+    },
+    {
+      "id": "Whisper",
+      "group": "Audio",
+      "tooltip": "Speech-to-text by OpenAI"
+    },
+    {
+      "id": "ElevenLabs",
+      "group": "Audio",
+      "tooltip": "Realistic voice synthesis"
+    },
+    {
+      "id": "Alexa",
+      "group": "Audio",
+      "tooltip": "Amazon smart voice assistant"
+    },
+    {
+      "id": "Siri",
+      "group": "Audio",
+      "tooltip": "Apple voice assistant"
+    },
+    {
+      "id": "Google Assistant",
+      "group": "Audio",
+      "tooltip": "Google voice assistant"
+    },
+    {
+      "id": "LangChain",
+      "group": "Tooling",
+      "tooltip": "LLM orchestration toolkit"
+    },
+    {
+      "id": "Haystack",
+      "group": "Tooling",
+      "tooltip": "Open-source RAG framework"
+    },
+    {
+      "id": "HuggingFace",
+      "group": "Tooling",
+      "tooltip": "Model hub & transformer library"
+    },
+    {
+      "id": "OpenAI API",
+      "group": "Tooling",
+      "tooltip": "APIs for GPT, DALL\u00b7E, Whisper"
+    },
+    {
+      "id": "Anthropic API",
+      "group": "Tooling",
+      "tooltip": "Claude access via API"
+    },
+    {
+      "id": "Gemini API",
+      "group": "Tooling",
+      "tooltip": "API access to Gemini models"
+    }
+  ],
+  "links": [
+    {
+      "source": "LangChain",
+      "target": "ChatGPT"
+    },
+    {
+      "source": "LangChain",
+      "target": "Claude AI"
+    },
+    {
+      "source": "LangChain",
+      "target": "Gemini API"
+    },
+    {
+      "source": "LangChain",
+      "target": "Anthropic API"
+    },
+    {
+      "source": "LangChain",
+      "target": "OpenAI API"
+    },
+    {
+      "source": "OpenAI API",
+      "target": "ChatGPT"
+    },
+    {
+      "source": "OpenAI API",
+      "target": "DALL\u00b7E 3"
+    },
+    {
+      "source": "OpenAI API",
+      "target": "Whisper"
+    },
+    {
+      "source": "Anthropic API",
+      "target": "Claude AI"
+    },
+    {
+      "source": "Gemini API",
+      "target": "Bard / Gemini"
+    },
+    {
+      "source": "Haystack",
+      "target": "Claude AI"
+    },
+    {
+      "source": "Haystack",
+      "target": "ChatGPT"
+    },
+    {
+      "source": "HuggingFace",
+      "target": "Stable Diffusion"
+    },
+    {
+      "source": "HuggingFace",
+      "target": "Whisper"
+    },
+    {
+      "source": "Alexa",
+      "target": "Whisper"
+    },
+    {
+      "source": "Siri",
+      "target": "Whisper"
+    },
+    {
+      "source": "Google Assistant",
+      "target": "Whisper"
+    },
+    {
+      "source": "ElevenLabs",
+      "target": "Siri"
+    },
+    {
+      "source": "ElevenLabs",
+      "target": "Alexa"
+    },
+    {
+      "source": "ElevenLabs",
+      "target": "Google Assistant"
+    },
+    {
+      "source": "Pi by Inflection",
+      "target": "ChatGPT"
+    },
+    {
+      "source": "Pi by Inflection",
+      "target": "Claude AI"
+    },
+    {
+      "source": "Pi by Inflection",
+      "target": "Anthropic API"
+    },
+    {
+      "source": "Mistral Chat",
+      "target": "HuggingFace"
+    },
+    {
+      "source": "Mistral Chat",
+      "target": "LangChain"
+    },
+    {
+      "source": "Adobe Firefly",
+      "target": "DALL\u00b7E 3"
+    },
+    {
+      "source": "Adobe Firefly",
+      "target": "Stable Diffusion"
+    },
+    {
+      "source": "Midjourney",
+      "target": "Stable Diffusion"
+    },
+    {
+      "source": "Midjourney",
+      "target": "DALL\u00b7E 3"
+    }
+  ]
+}

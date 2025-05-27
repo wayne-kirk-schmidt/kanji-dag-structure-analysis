@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <!-- Responsive meta tag -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Explorer</title>
+    <link rel="icon" href="favicon.ico" />
+    <link rel="stylesheet" href="css/styles.css" />
+    <style>
+      /* Conditional styling for the General Controls header */
+      body.dark-mode .common-controls h3 {
+        color: #fff;
+      }
+      body:not(.dark-mode) .common-controls h3 {
+        color: #000;
+      }
+      
+      /* Ensure dataset control text is always dark */
+      .dataset-controls {
+        color: #000;
+      }
+      
+      /* Layout for dataset columns side by side */
+      .dataset-columns {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        gap: 20px;
+        margin: 20px;
+      }
+      .dataset-column {
+        /* Each column takes up half of the viewport width */
+        width: 50vw;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+      }
+      .dataset-controls {
+        padding: 10px;
+        border: 1px solid #ddd;
+        background: #f9f9f9;
+        font-size: 0.9em; /* Consistent font size for both Dataset1 and Dataset2 */
+      }
+      .graph-panel {
+        /* The graph panel takes full width of its container and half of the viewport height */
+        width: 100%;
+        border: 1px solid #ccc;
+        height: 50vh;
+        overflow: hidden;
+      }
+      /* Common controls styling */
+      .common-controls {
+        margin: 20px;
+        padding: 10px;
+        border-bottom: 1px solid #ccc;
+      }
+      .control-item {
+        margin-bottom: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Header Section -->
+    <header class="app-header">
+      <h1>Data Explorer</h1>
+    </header>
+    
+    <!-- Common Controls Section -->
+    <section class="common-controls">
+      <h3>General Controls</h3>
+      <button id="darkToggle">Toggle Dark Mode</button>
+      <button id="downloadDebugLogs">Download Diagnostics</button>
+      <!-- Compare Controls (placeholders) -->
+      <label>
+        <input type="checkbox" id="compareBase" />
+        Highlight Base Only (Red)
+      </label>
+      <label>
+        <input type="checkbox" id="compareTwin" />
+        Highlight Twin Only (Green)
+      </label>
+      <label>
+        <input type="checkbox" id="compareCommon" />
+        Highlight Common (Blue)
+      </label>
+    </section>
+    
+    <!-- Dataset Columns (side by side) -->
+    <main class="dataset-columns">
+      <!-- Dataset1 Column -->
+      <section class="dataset-column" id="dataset1-column">
+        <h2>Dataset1</h2>
+        <div class="dataset-controls">
+          <div class="control-item">
+            <label for="fileInput1">Data Source:</label>
+            <input id="fileInput1" type="file" accept=".json" />
+          </div>
+          <div class="control-item">
+            <label for="layoutSelect1">Data Visualization:</label>
+            <select id="layoutSelect1">
+              <option value="force">Force</option>
+              <option value="radial">Radial</option>
+              <option value="galaxy">Galaxy</option>
+            </select>
+          </div>
+          <div class="control-item">
+            <label for="pngFilename1">Save to PNG:</label>
+            <input id="pngFilename1" placeholder="filename.png (optional)" type="text" />
+            <button id="savePng1">Save PNG</button>
+          </div>
+          <div class="control-item">
+            <label for="searchNode1">Search by Name:</label>
+            <input id="searchNode1" placeholder="Enter text" type="text" />
+          </div>
+          <div class="control-item">
+            <label>Search by Category:</label>
+            <div id="categoryFilters1"></div>
+          </div>
+        </div>
+        <div class="graph-panel" id="datapanel1"></div>
+      </section>
+      
+      <!-- Dataset2 Column -->
+      <section class="dataset-column" id="dataset2-column">
+        <h2>Dataset2</h2>
+        <div class="dataset-controls">
+          <div class="control-item">
+            <label for="fileInput2">Data Source:</label>
+            <input id="fileInput2" type="file" accept=".json" />
+          </div>
+          <div class="control-item">
+            <label for="layoutSelect2">Data Visualization:</label>
+            <select id="layoutSelect2">
+              <option value="force">Force</option>
+              <option value="radial">Radial</option>
+              <option value="galaxy">Galaxy</option>
+            </select>
+          </div>
+          <div class="control-item">
+            <label for="pngFilename2">Save to PNG:</label>
+            <input id="pngFilename2" placeholder="filename.png (optional)" type="text" />
+            <button id="savePng2">Save PNG</button>
+          </div>
+          <div class="control-item">
+            <label for="searchNode2">Search by Name:</label>
+            <input id="searchNode2" placeholder="Enter text" type="text" />
+          </div>
+          <div class="control-item">
+            <label>Search by Category:</label>
+            <div id="categoryFilters2"></div>
+          </div>
+        </div>
+        <div class="graph-panel" id="datapanel2"></div>
+      </section>
+    </main>
+    
+    <!-- External Libraries -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/force-graph"></script>
+    <!-- Main Application Code -->
+    <script src="js/main.js" type="module"></script>
+  </body>
+</html>

@@ -1,0 +1,45 @@
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.controls {
+  position: fixed;
+  left: 0;
+  top: 0;
+  padding: 10px;
+  background: #f0f0f0;
+  width: 300px;
+  height: 100%;
+  overflow-y: auto;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+}
+.graph-container {
+  margin-left: 320px;
+  padding: 10px;
+  display: flex;
+  gap: 10px;
+}
+.graph-panel {
+  width: 100%;
+  height: 90vh;
+  border: 1px solid #ccc;
+}
+body.dark-mode {
+  background: #121212;
+  color: white;
+}
+body.dark-mode .controls {
+  background: #222;
+  color: white;
+}
+#categoryFilters label {
+  display: inline-flex;
+  align-items: center;
+  margin: 2px 6px;
+  white-space: nowrap;
+  max-width: 140px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

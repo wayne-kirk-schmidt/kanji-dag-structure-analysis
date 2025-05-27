@@ -1,0 +1,588 @@
+{
+  "nodes": [
+    {
+      "id": "ChatGPT",
+      "group": "Conversational",
+      "tooltip": "Multimodal conversational agent by OpenAI"
+    },
+    {
+      "id": "Claude AI",
+      "group": "Conversational",
+      "tooltip": "Anthropic alignment-focused chatbot"
+    },
+    {
+      "id": "Bard / Gemini",
+      "group": "Conversational",
+      "tooltip": "Google DeepMind flagship LLM"
+    },
+    {
+      "id": "Pi by Inflection",
+      "group": "Conversational",
+      "tooltip": "Empathetic AI assistant"
+    },
+    {
+      "id": "Mistral Chat",
+      "group": "Conversational",
+      "tooltip": "Open-weight LLM from Mistral"
+    },
+    {
+      "id": "DALL\u00b7E 3",
+      "group": "Image",
+      "tooltip": "Text-to-image generator by OpenAI"
+    },
+    {
+      "id": "Stable Diffusion",
+      "group": "Image",
+      "tooltip": "Open-source image generator"
+    },
+    {
+      "id": "Midjourney",
+      "group": "Image",
+      "tooltip": "Stylized image generation platform"
+    },
+    {
+      "id": "Adobe Firefly",
+      "group": "Image",
+      "tooltip": "Creative image tools by Adobe"
+    },
+    {
+      "id": "Whisper",
+      "group": "Audio",
+      "tooltip": "Speech-to-text by OpenAI"
+    },
+    {
+      "id": "ElevenLabs",
+      "group": "Audio",
+      "tooltip": "Realistic voice synthesis"
+    },
+    {
+      "id": "Alexa",
+      "group": "Audio",
+      "tooltip": "Amazon smart voice assistant"
+    },
+    {
+      "id": "Siri",
+      "group": "Audio",
+      "tooltip": "Apple voice assistant"
+    },
+    {
+      "id": "Google Assistant",
+      "group": "Audio",
+      "tooltip": "Google voice assistant"
+    },
+    {
+      "id": "LangChain",
+      "group": "Tooling",
+      "tooltip": "LLM orchestration toolkit"
+    },
+    {
+      "id": "Haystack",
+      "group": "Tooling",
+      "tooltip": "Open-source RAG framework"
+    },
+    {
+      "id": "HuggingFace",
+      "group": "Tooling",
+      "tooltip": "Model hub & transformer library"
+    },
+    {
+      "id": "OpenAI API",
+      "group": "Tooling",
+      "tooltip": "APIs for GPT, DALL\u00b7E, Whisper"
+    },
+    {
+      "id": "Anthropic API",
+      "group": "Tooling",
+      "tooltip": "Claude access via API"
+    },
+    {
+      "id": "Gemini API",
+      "group": "Tooling",
+      "tooltip": "API access to Gemini models"
+    },
+    {
+      "id": "NewNode-1-ba7e111f",
+      "group": "Embeddings",
+      "tooltip": "A new AI tool in the Embeddings group"
+    },
+    {
+      "id": "NewNode-2-e8669c14",
+      "group": "Video",
+      "tooltip": "A new AI tool in the Video group"
+    },
+    {
+      "id": "NewNode-3-530d3d6b",
+      "group": "Search",
+      "tooltip": "A new AI tool in the Search group"
+    },
+    {
+      "id": "NewNode-4-8fd26802",
+      "group": "Video",
+      "tooltip": "A new AI tool in the Video group"
+    },
+    {
+      "id": "NewNode-5-35ddb254",
+      "group": "Embeddings",
+      "tooltip": "A new AI tool in the Embeddings group"
+    },
+    {
+      "id": "NewNode-6-a965cb03",
+      "group": "Search",
+      "tooltip": "A new AI tool in the Search group"
+    },
+    {
+      "id": "NewNode-7-293a095f",
+      "group": "Search",
+      "tooltip": "A new AI tool in the Search group"
+    },
+    {
+      "id": "NewNode-8-6a355216",
+      "group": "Data",
+      "tooltip": "A new AI tool in the Data group"
+    },
+    {
+      "id": "NewNode-9-d03c99dd",
+      "group": "Search",
+      "tooltip": "A new AI tool in the Search group"
+    },
+    {
+      "id": "NewNode-10-c8c700aa",
+      "group": "Embeddings",
+      "tooltip": "A new AI tool in the Embeddings group"
+    },
+    {
+      "id": "NewNode-11-d494a959",
+      "group": "Video",
+      "tooltip": "A new AI tool in the Video group"
+    },
+    {
+      "id": "NewNode-12-c3ccd04c",
+      "group": "Data",
+      "tooltip": "A new AI tool in the Data group"
+    },
+    {
+      "id": "NewNode-13-d8d5233a",
+      "group": "Embeddings",
+      "tooltip": "A new AI tool in the Embeddings group"
+    },
+    {
+      "id": "NewNode-14-65b5f905",
+      "group": "Embeddings",
+      "tooltip": "A new AI tool in the Embeddings group"
+    },
+    {
+      "id": "NewNode-15-0413330f",
+      "group": "Data",
+      "tooltip": "A new AI tool in the Data group"
+    },
+    {
+      "id": "NewNode-16-4a4a6c48",
+      "group": "Embeddings",
+      "tooltip": "A new AI tool in the Embeddings group"
+    },
+    {
+      "id": "NewNode-17-774a04a9",
+      "group": "Video",
+      "tooltip": "A new AI tool in the Video group"
+    },
+    {
+      "id": "NewNode-18-a0d55f3a",
+      "group": "Search",
+      "tooltip": "A new AI tool in the Search group"
+    },
+    {
+      "id": "NewNode-19-8de6b7a5",
+      "group": "Embeddings",
+      "tooltip": "A new AI tool in the Embeddings group"
+    },
+    {
+      "id": "NewNode-20-ade36738",
+      "group": "Data",
+      "tooltip": "A new AI tool in the Data group"
+    },
+    {
+      "id": "NewNode-21-8cfc4c9a",
+      "group": "Video",
+      "tooltip": "A new AI tool in the Video group"
+    },
+    {
+      "id": "NewNode-22-4b72ce42",
+      "group": "Embeddings",
+      "tooltip": "A new AI tool in the Embeddings group"
+    },
+    {
+      "id": "NewNode-23-34e52e3a",
+      "group": "Video",
+      "tooltip": "A new AI tool in the Video group"
+    },
+    {
+      "id": "NewNode-24-87bef224",
+      "group": "Video",
+      "tooltip": "A new AI tool in the Video group"
+    },
+    {
+      "id": "NewNode-25-959570fa",
+      "group": "Search",
+      "tooltip": "A new AI tool in the Search group"
+    },
+    {
+      "id": "NewNode-26-47e66ad3",
+      "group": "Video",
+      "tooltip": "A new AI tool in the Video group"
+    },
+    {
+      "id": "NewNode-27-c7a3827c",
+      "group": "Data",
+      "tooltip": "A new AI tool in the Data group"
+    },
+    {
+      "id": "NewNode-28-a52fb8b0",
+      "group": "Embeddings",
+      "tooltip": "A new AI tool in the Embeddings group"
+    },
+    {
+      "id": "NewNode-29-37facf8c",
+      "group": "Search",
+      "tooltip": "A new AI tool in the Search group"
+    },
+    {
+      "id": "NewNode-30-bf0e3a6a",
+      "group": "Embeddings",
+      "tooltip": "A new AI tool in the Embeddings group"
+    }
+  ],
+  "links": [
+    {
+      "source": "LangChain",
+      "target": "ChatGPT"
+    },
+    {
+      "source": "LangChain",
+      "target": "Claude AI"
+    },
+    {
+      "source": "LangChain",
+      "target": "Gemini API"
+    },
+    {
+      "source": "LangChain",
+      "target": "Anthropic API"
+    },
+    {
+      "source": "LangChain",
+      "target": "OpenAI API"
+    },
+    {
+      "source": "OpenAI API",
+      "target": "ChatGPT"
+    },
+    {
+      "source": "OpenAI API",
+      "target": "DALL\u00b7E 3"
+    },
+    {
+      "source": "OpenAI API",
+      "target": "Whisper"
+    },
+    {
+      "source": "Anthropic API",
+      "target": "Claude AI"
+    },
+    {
+      "source": "Gemini API",
+      "target": "Bard / Gemini"
+    },
+    {
+      "source": "Haystack",
+      "target": "Claude AI"
+    },
+    {
+      "source": "Haystack",
+      "target": "ChatGPT"
+    },
+    {
+      "source": "HuggingFace",
+      "target": "Stable Diffusion"
+    },
+    {
+      "source": "HuggingFace",
+      "target": "Whisper"
+    },
+    {
+      "source": "Alexa",
+      "target": "Whisper"
+    },
+    {
+      "source": "Siri",
+      "target": "Whisper"
+    },
+    {
+      "source": "Google Assistant",
+      "target": "Whisper"
+    },
+    {
+      "source": "ElevenLabs",
+      "target": "Siri"
+    },
+    {
+      "source": "ElevenLabs",
+      "target": "Alexa"
+    },
+    {
+      "source": "ElevenLabs",
+      "target": "Google Assistant"
+    },
+    {
+      "source": "Pi by Inflection",
+      "target": "ChatGPT"
+    },
+    {
+      "source": "Pi by Inflection",
+      "target": "Claude AI"
+    },
+    {
+      "source": "Pi by Inflection",
+      "target": "Anthropic API"
+    },
+    {
+      "source": "Mistral Chat",
+      "target": "HuggingFace"
+    },
+    {
+      "source": "Mistral Chat",
+      "target": "LangChain"
+    },
+    {
+      "source": "Adobe Firefly",
+      "target": "DALL\u00b7E 3"
+    },
+    {
+      "source": "Adobe Firefly",
+      "target": "Stable Diffusion"
+    },
+    {
+      "source": "Midjourney",
+      "target": "Stable Diffusion"
+    },
+    {
+      "source": "Midjourney",
+      "target": "DALL\u00b7E 3"
+    },
+    {
+      "source": "NewNode-1-ba7e111f",
+      "target": "LangChain"
+    },
+    {
+      "source": "NewNode-1-ba7e111f",
+      "target": "Pi by Inflection"
+    },
+    {
+      "source": "NewNode-1-ba7e111f",
+      "target": "OpenAI API"
+    },
+    {
+      "source": "NewNode-2-e8669c14",
+      "target": "ChatGPT"
+    },
+    {
+      "source": "NewNode-3-530d3d6b",
+      "target": "Bard / Gemini"
+    },
+    {
+      "source": "NewNode-4-8fd26802",
+      "target": "OpenAI API"
+    },
+    {
+      "source": "NewNode-5-35ddb254",
+      "target": "Pi by Inflection"
+    },
+    {
+      "source": "NewNode-5-35ddb254",
+      "target": "Google Assistant"
+    },
+    {
+      "source": "NewNode-6-a965cb03",
+      "target": "Bard / Gemini"
+    },
+    {
+      "source": "NewNode-7-293a095f",
+      "target": "Pi by Inflection"
+    },
+    {
+      "source": "NewNode-7-293a095f",
+      "target": "Siri"
+    },
+    {
+      "source": "NewNode-7-293a095f",
+      "target": "Google Assistant"
+    },
+    {
+      "source": "NewNode-8-6a355216",
+      "target": "Haystack"
+    },
+    {
+      "source": "NewNode-8-6a355216",
+      "target": "Bard / Gemini"
+    },
+    {
+      "source": "NewNode-9-d03c99dd",
+      "target": "Google Assistant"
+    },
+    {
+      "source": "NewNode-10-c8c700aa",
+      "target": "Claude AI"
+    },
+    {
+      "source": "NewNode-10-c8c700aa",
+      "target": "Alexa"
+    },
+    {
+      "source": "NewNode-11-d494a959",
+      "target": "Mistral Chat"
+    },
+    {
+      "source": "NewNode-11-d494a959",
+      "target": "Anthropic API"
+    },
+    {
+      "source": "NewNode-11-d494a959",
+      "target": "Pi by Inflection"
+    },
+    {
+      "source": "NewNode-12-c3ccd04c",
+      "target": "LangChain"
+    },
+    {
+      "source": "NewNode-12-c3ccd04c",
+      "target": "Haystack"
+    },
+    {
+      "source": "NewNode-12-c3ccd04c",
+      "target": "ElevenLabs"
+    },
+    {
+      "source": "NewNode-13-d8d5233a",
+      "target": "Adobe Firefly"
+    },
+    {
+      "source": "NewNode-14-65b5f905",
+      "target": "Alexa"
+    },
+    {
+      "source": "NewNode-15-0413330f",
+      "target": "Pi by Inflection"
+    },
+    {
+      "source": "NewNode-15-0413330f",
+      "target": "Claude AI"
+    },
+    {
+      "source": "NewNode-16-4a4a6c48",
+      "target": "ChatGPT"
+    },
+    {
+      "source": "NewNode-16-4a4a6c48",
+      "target": "OpenAI API"
+    },
+    {
+      "source": "NewNode-17-774a04a9",
+      "target": "Whisper"
+    },
+    {
+      "source": "NewNode-18-a0d55f3a",
+      "target": "Mistral Chat"
+    },
+    {
+      "source": "NewNode-19-8de6b7a5",
+      "target": "ElevenLabs"
+    },
+    {
+      "source": "NewNode-20-ade36738",
+      "target": "DALL\u00b7E 3"
+    },
+    {
+      "source": "NewNode-20-ade36738",
+      "target": "Google Assistant"
+    },
+    {
+      "source": "NewNode-21-8cfc4c9a",
+      "target": "Alexa"
+    },
+    {
+      "source": "NewNode-21-8cfc4c9a",
+      "target": "Midjourney"
+    },
+    {
+      "source": "NewNode-21-8cfc4c9a",
+      "target": "Stable Diffusion"
+    },
+    {
+      "source": "NewNode-22-4b72ce42",
+      "target": "Alexa"
+    },
+    {
+      "source": "NewNode-22-4b72ce42",
+      "target": "Stable Diffusion"
+    },
+    {
+      "source": "NewNode-23-34e52e3a",
+      "target": "Anthropic API"
+    },
+    {
+      "source": "NewNode-23-34e52e3a",
+      "target": "DALL\u00b7E 3"
+    },
+    {
+      "source": "NewNode-23-34e52e3a",
+      "target": "Gemini API"
+    },
+    {
+      "source": "NewNode-24-87bef224",
+      "target": "Haystack"
+    },
+    {
+      "source": "NewNode-24-87bef224",
+      "target": "Whisper"
+    },
+    {
+      "source": "NewNode-25-959570fa",
+      "target": "Gemini API"
+    },
+    {
+      "source": "NewNode-26-47e66ad3",
+      "target": "Claude AI"
+    },
+    {
+      "source": "NewNode-26-47e66ad3",
+      "target": "Siri"
+    },
+    {
+      "source": "NewNode-27-c7a3827c",
+      "target": "Bard / Gemini"
+    },
+    {
+      "source": "NewNode-28-a52fb8b0",
+      "target": "DALL\u00b7E 3"
+    },
+    {
+      "source": "NewNode-28-a52fb8b0",
+      "target": "Mistral Chat"
+    },
+    {
+      "source": "NewNode-28-a52fb8b0",
+      "target": "Haystack"
+    },
+    {
+      "source": "NewNode-29-37facf8c",
+      "target": "DALL\u00b7E 3"
+    },
+    {
+      "source": "NewNode-30-bf0e3a6a",
+      "target": "Bard / Gemini"
+    },
+    {
+      "source": "NewNode-30-bf0e3a6a",
+      "target": "ChatGPT"
+    }
+  ]
+}

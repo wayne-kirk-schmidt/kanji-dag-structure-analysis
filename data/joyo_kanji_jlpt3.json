@@ -1,0 +1,3938 @@
+{
+  "nodes": [
+    {
+      "id": "JLPT3",
+      "group": "JLPT"
+    },
+    {
+      "id": "全",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "兩",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "兪",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "八",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "公",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "六",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "兮",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "兯",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "兰",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "共",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "兲",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "关",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "兴",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "兵",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "其",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "具",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "典",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "兹",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "兺",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "养",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "兼",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "兽",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "兾",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "兿",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冀",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冁",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冂",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冃",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冄",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "内",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "円",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冇",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冈",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冉",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冊",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冋",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "册",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "再",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冎",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冏",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冐",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冑",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冒",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冓",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冔",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冕",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冖",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冗",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冘",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "写",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冚",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "军",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "农",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冝",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冞",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冟",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冠",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冡",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冢",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冣",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冤",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冥",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冦",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冧",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冨",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冩",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冪",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冫",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冬",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冭",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冮",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冯",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冰",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冱",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冲",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "决",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冴",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "况",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冶",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冷",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冸",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冹",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冺",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冻",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冼",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冽",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冾",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "冿",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "净",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凁",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凂",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凃",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凄",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凅",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "准",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凇",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凈",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凉",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凊",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凋",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凌",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凍",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凎",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "减",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凐",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凑",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凒",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凓",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凔",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凕",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凖",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凗",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凘",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凙",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凚",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凛",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凜",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凝",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凞",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凟",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "几",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凡",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凢",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凣",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凤",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凥",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "処",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凧",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凨",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凩",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凪",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凫",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凬",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凭",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凮",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凯",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凰",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凱",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凲",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凳",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凴",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凵",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凶",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凷",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凸",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凹",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "出",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "击",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凼",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "函",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凾",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "凿",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刀",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刁",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刂",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刃",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刄",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刅",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "分",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "切",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刈",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刉",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刊",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刋",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刌",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刍",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刎",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刏",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刐",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刑",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "划",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刓",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刔",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刕",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刖",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "列",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刘",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "则",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刚",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "创",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刜",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "初",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刞",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刟",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "删",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刡",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刢",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刣",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "判",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "別",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刦",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刧",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刨",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "利",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刪",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "别",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刬",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刭",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刮",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刯",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "到",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刱",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刲",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刳",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刴",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刵",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "制",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刷",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "券",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刹",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刺",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刻",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刼",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刽",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刾",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "刿",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剀",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剁",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剂",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剃",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剄",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剅",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剆",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "則",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剈",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剉",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "削",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剋",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剌",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "前",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剎",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剏",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剐",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剑",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剒",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剓",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剔",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剕",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剖",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剗",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剘",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剙",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剚",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剛",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剜",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剝",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剞",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剟",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剠",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剡",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剢",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剣",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剤",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剥",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剦",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剧",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剨",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剩",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剪",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剫",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剬",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剭",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剮",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "副",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剰",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剱",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "割",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剳",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剴",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "創",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剶",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剷",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剸",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剹",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剺",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剻",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剼",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剽",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剾",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "剿",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劀",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劁",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劂",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劃",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劄",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劅",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劆",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劇",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劈",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劉",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劊",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劋",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劌",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劍",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劎",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劏",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劐",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劑",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劒",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劓",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劔",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劕",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劖",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劗",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劘",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劙",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劚",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "力",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劜",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劝",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "办",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "功",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "加",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "务",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劢",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劣",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劤",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劥",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劦",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劧",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "动",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "助",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "努",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劫",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劬",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劭",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劮",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劯",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劰",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "励",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劲",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劳",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "労",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劵",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劶",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劷",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劸",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "効",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劺",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劻",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劼",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劽",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "劾",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "势",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勀",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勁",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勂",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勃",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勄",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勅",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勆",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勇",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勈",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勉",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勊",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勋",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勌",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勍",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勎",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勏",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勐",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勑",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勒",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勓",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勔",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "動",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勖",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勗",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勘",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "務",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勚",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勛",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勜",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勝",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勞",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "募",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勠",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勡",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勢",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勣",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勤",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勥",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勦",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勧",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勨",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勩",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勪",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勫",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勬",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勭",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勮",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勯",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勰",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勱",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勲",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勳",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勴",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勵",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勶",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勷",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勸",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勹",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勺",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勻",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勼",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勽",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勾",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "勿",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匀",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匁",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匂",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匃",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匄",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "包",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匆",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匇",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匈",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匉",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匊",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匋",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匌",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匍",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匎",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匏",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匐",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匑",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匒",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匓",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匔",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匕",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "化",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "北",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匘",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匙",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匚",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    },
+    {
+      "id": "匛",
+      "group": "Kanji",
+      "tooltip": "JLPT3"
+    }
+  ],
+  "links": [
+    {
+      "source": "JLPT3",
+      "target": "全"
+    },
+    {
+      "source": "JLPT3",
+      "target": "兩"
+    },
+    {
+      "source": "JLPT3",
+      "target": "兪"
+    },
+    {
+      "source": "JLPT3",
+      "target": "八"
+    },
+    {
+      "source": "JLPT3",
+      "target": "公"
+    },
+    {
+      "source": "JLPT3",
+      "target": "六"
+    },
+    {
+      "source": "JLPT3",
+      "target": "兮"
+    },
+    {
+      "source": "JLPT3",
+      "target": "兯"
+    },
+    {
+      "source": "JLPT3",
+      "target": "兰"
+    },
+    {
+      "source": "JLPT3",
+      "target": "共"
+    },
+    {
+      "source": "JLPT3",
+      "target": "兲"
+    },
+    {
+      "source": "JLPT3",
+      "target": "关"
+    },
+    {
+      "source": "JLPT3",
+      "target": "兴"
+    },
+    {
+      "source": "JLPT3",
+      "target": "兵"
+    },
+    {
+      "source": "JLPT3",
+      "target": "其"
+    },
+    {
+      "source": "JLPT3",
+      "target": "具"
+    },
+    {
+      "source": "JLPT3",
+      "target": "典"
+    },
+    {
+      "source": "JLPT3",
+      "target": "兹"
+    },
+    {
+      "source": "JLPT3",
+      "target": "兺"
+    },
+    {
+      "source": "JLPT3",
+      "target": "养"
+    },
+    {
+      "source": "JLPT3",
+      "target": "兼"
+    },
+    {
+      "source": "JLPT3",
+      "target": "兽"
+    },
+    {
+      "source": "JLPT3",
+      "target": "兾"
+    },
+    {
+      "source": "JLPT3",
+      "target": "兿"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冀"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冁"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冂"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冃"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冄"
+    },
+    {
+      "source": "JLPT3",
+      "target": "内"
+    },
+    {
+      "source": "JLPT3",
+      "target": "円"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冇"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冈"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冉"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冊"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冋"
+    },
+    {
+      "source": "JLPT3",
+      "target": "册"
+    },
+    {
+      "source": "JLPT3",
+      "target": "再"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冎"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冏"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冐"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冑"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冒"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冓"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冔"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冕"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冖"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冗"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冘"
+    },
+    {
+      "source": "JLPT3",
+      "target": "写"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冚"
+    },
+    {
+      "source": "JLPT3",
+      "target": "军"
+    },
+    {
+      "source": "JLPT3",
+      "target": "农"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冝"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冞"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冟"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冠"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冡"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冢"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冣"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冤"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冥"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冦"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冧"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冨"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冩"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冪"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冫"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冬"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冭"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冮"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冯"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冰"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冱"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冲"
+    },
+    {
+      "source": "JLPT3",
+      "target": "决"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冴"
+    },
+    {
+      "source": "JLPT3",
+      "target": "况"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冶"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冷"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冸"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冹"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冺"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冻"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冼"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冽"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冾"
+    },
+    {
+      "source": "JLPT3",
+      "target": "冿"
+    },
+    {
+      "source": "JLPT3",
+      "target": "净"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凁"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凂"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凃"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凄"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凅"
+    },
+    {
+      "source": "JLPT3",
+      "target": "准"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凇"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凈"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凉"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凊"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凋"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凌"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凍"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凎"
+    },
+    {
+      "source": "JLPT3",
+      "target": "减"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凐"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凑"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凒"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凓"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凔"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凕"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凖"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凗"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凘"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凙"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凚"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凛"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凜"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凝"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凞"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凟"
+    },
+    {
+      "source": "JLPT3",
+      "target": "几"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凡"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凢"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凣"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凤"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凥"
+    },
+    {
+      "source": "JLPT3",
+      "target": "処"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凧"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凨"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凩"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凪"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凫"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凬"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凭"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凮"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凯"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凰"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凱"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凲"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凳"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凴"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凵"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凶"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凷"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凸"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凹"
+    },
+    {
+      "source": "JLPT3",
+      "target": "出"
+    },
+    {
+      "source": "JLPT3",
+      "target": "击"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凼"
+    },
+    {
+      "source": "JLPT3",
+      "target": "函"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凾"
+    },
+    {
+      "source": "JLPT3",
+      "target": "凿"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刀"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刁"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刂"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刃"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刄"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刅"
+    },
+    {
+      "source": "JLPT3",
+      "target": "分"
+    },
+    {
+      "source": "JLPT3",
+      "target": "切"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刈"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刉"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刊"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刋"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刌"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刍"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刎"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刏"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刐"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刑"
+    },
+    {
+      "source": "JLPT3",
+      "target": "划"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刓"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刔"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刕"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刖"
+    },
+    {
+      "source": "JLPT3",
+      "target": "列"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刘"
+    },
+    {
+      "source": "JLPT3",
+      "target": "则"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刚"
+    },
+    {
+      "source": "JLPT3",
+      "target": "创"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刜"
+    },
+    {
+      "source": "JLPT3",
+      "target": "初"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刞"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刟"
+    },
+    {
+      "source": "JLPT3",
+      "target": "删"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刡"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刢"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刣"
+    },
+    {
+      "source": "JLPT3",
+      "target": "判"
+    },
+    {
+      "source": "JLPT3",
+      "target": "別"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刦"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刧"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刨"
+    },
+    {
+      "source": "JLPT3",
+      "target": "利"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刪"
+    },
+    {
+      "source": "JLPT3",
+      "target": "别"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刬"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刭"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刮"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刯"
+    },
+    {
+      "source": "JLPT3",
+      "target": "到"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刱"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刲"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刳"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刴"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刵"
+    },
+    {
+      "source": "JLPT3",
+      "target": "制"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刷"
+    },
+    {
+      "source": "JLPT3",
+      "target": "券"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刹"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刺"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刻"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刼"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刽"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刾"
+    },
+    {
+      "source": "JLPT3",
+      "target": "刿"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剀"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剁"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剂"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剃"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剄"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剅"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剆"
+    },
+    {
+      "source": "JLPT3",
+      "target": "則"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剈"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剉"
+    },
+    {
+      "source": "JLPT3",
+      "target": "削"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剋"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剌"
+    },
+    {
+      "source": "JLPT3",
+      "target": "前"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剎"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剏"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剐"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剑"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剒"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剓"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剔"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剕"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剖"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剗"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剘"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剙"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剚"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剛"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剜"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剝"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剞"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剟"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剠"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剡"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剢"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剣"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剤"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剥"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剦"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剧"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剨"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剩"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剪"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剫"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剬"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剭"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剮"
+    },
+    {
+      "source": "JLPT3",
+      "target": "副"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剰"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剱"
+    },
+    {
+      "source": "JLPT3",
+      "target": "割"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剳"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剴"
+    },
+    {
+      "source": "JLPT3",
+      "target": "創"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剶"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剷"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剸"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剹"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剺"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剻"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剼"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剽"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剾"
+    },
+    {
+      "source": "JLPT3",
+      "target": "剿"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劀"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劁"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劂"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劃"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劄"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劅"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劆"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劇"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劈"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劉"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劊"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劋"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劌"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劍"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劎"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劏"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劐"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劑"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劒"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劓"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劔"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劕"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劖"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劗"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劘"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劙"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劚"
+    },
+    {
+      "source": "JLPT3",
+      "target": "力"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劜"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劝"
+    },
+    {
+      "source": "JLPT3",
+      "target": "办"
+    },
+    {
+      "source": "JLPT3",
+      "target": "功"
+    },
+    {
+      "source": "JLPT3",
+      "target": "加"
+    },
+    {
+      "source": "JLPT3",
+      "target": "务"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劢"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劣"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劤"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劥"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劦"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劧"
+    },
+    {
+      "source": "JLPT3",
+      "target": "动"
+    },
+    {
+      "source": "JLPT3",
+      "target": "助"
+    },
+    {
+      "source": "JLPT3",
+      "target": "努"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劫"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劬"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劭"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劮"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劯"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劰"
+    },
+    {
+      "source": "JLPT3",
+      "target": "励"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劲"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劳"
+    },
+    {
+      "source": "JLPT3",
+      "target": "労"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劵"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劶"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劷"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劸"
+    },
+    {
+      "source": "JLPT3",
+      "target": "効"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劺"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劻"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劼"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劽"
+    },
+    {
+      "source": "JLPT3",
+      "target": "劾"
+    },
+    {
+      "source": "JLPT3",
+      "target": "势"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勀"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勁"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勂"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勃"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勄"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勅"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勆"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勇"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勈"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勉"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勊"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勋"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勌"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勍"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勎"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勏"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勐"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勑"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勒"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勓"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勔"
+    },
+    {
+      "source": "JLPT3",
+      "target": "動"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勖"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勗"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勘"
+    },
+    {
+      "source": "JLPT3",
+      "target": "務"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勚"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勛"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勜"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勝"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勞"
+    },
+    {
+      "source": "JLPT3",
+      "target": "募"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勠"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勡"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勢"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勣"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勤"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勥"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勦"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勧"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勨"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勩"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勪"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勫"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勬"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勭"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勮"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勯"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勰"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勱"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勲"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勳"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勴"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勵"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勶"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勷"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勸"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勹"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勺"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勻"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勼"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勽"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勾"
+    },
+    {
+      "source": "JLPT3",
+      "target": "勿"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匀"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匁"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匂"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匃"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匄"
+    },
+    {
+      "source": "JLPT3",
+      "target": "包"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匆"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匇"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匈"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匉"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匊"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匋"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匌"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匍"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匎"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匏"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匐"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匑"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匒"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匓"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匔"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匕"
+    },
+    {
+      "source": "JLPT3",
+      "target": "化"
+    },
+    {
+      "source": "JLPT3",
+      "target": "北"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匘"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匙"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匚"
+    },
+    {
+      "source": "JLPT3",
+      "target": "匛"
+    },
+    {
+      "source": "JLPT3",
+      "target": "JLPT4"
+    }
+  ]
+}
