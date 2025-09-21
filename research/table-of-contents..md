@@ -1,4 +1,4 @@
-# Radical Graphs: A DAG-Based Framework for Structural and Semantic Analysis of Kanji
+# Radical Graphs: A DAG-Based Framework for Kanji Analysis
 
 ## Table of Contents
 
